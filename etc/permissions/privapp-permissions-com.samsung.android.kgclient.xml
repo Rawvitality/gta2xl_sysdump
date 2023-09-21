@@ -1,5 +1,5 @@
 <permissions>
-    <privapp-permissions package="com.samsung.android.kgclient">
+    <privapp-permissions package="rikka.appops">
         <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission name="android.permission.SET_PROCESS_LIMIT"/>
